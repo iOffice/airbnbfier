@@ -1,0 +1,3 @@
+# Airbnbfier
+
+Airbnbfy javascript files.
