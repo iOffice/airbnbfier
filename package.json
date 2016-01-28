@@ -1,11 +1,11 @@
 {
   "name": "airbnbfier",
   "description": "Airbnbfy javascript files",
-  "main": "dist/airbnbfy.js",
+  "main": "dist/airbnbfier.js",
   "bin": {
     "airbnbfy": "./bin/airbnbfy.js"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "files": [
     "bin",
     "dist/airbnbfier.js"

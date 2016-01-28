@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 const fs = require('fs');
-const airbnbfy = require('../dist/airbnbfy.js');
+const airbnbfy = require('../dist/airbnbfier.js');
 const usage = `usage:
 
     airbnbfy.js src [--write] [formatter...]
