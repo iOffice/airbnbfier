@@ -24,7 +24,6 @@
     }
   ],
   "dependencies": {
-    "chiles": "^0.1.1",
     "lodash": "^4.0.0"
   },
   "devDependencies": {
